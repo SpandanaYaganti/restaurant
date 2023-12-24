@@ -1,0 +1,171 @@
+body{
+    background-color: darksalmon;
+}
+.heading{
+    height:40px;
+    width:100%;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+#main{
+    height:150px;
+    width:100%;
+    background-color: aquamarine;
+
+}
+#main{
+    height:200px;
+    width:100%;
+}
+#main_img{
+margin-left: 600px;
+margin-top: 10px;
+height:120px;
+width:120px;
+border-radius: 50px;
+}
+#main_links{
+    margin-left:450px;
+}
+#links{
+    display:flex;
+    margin-top: 30px;
+}
+.links_sub{
+    margin-left: 50px;
+    color:brown;
+}
+#welcome{
+    margin-top: 30px;
+    margin-left: 90px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: darkgreen;
+}
+#sub_div{
+    height:300px;
+    width:100%;
+    background-color:cadetblue;
+}
+#sub_img{
+    margin-left: 50px;
+    margin-top: 30px;
+    display:flex;
+}
+.img1{
+    background-image: url(prices.jpg);
+    margin-left: 170px;
+    margin-top: 20px;
+    height:250px;
+    width:350px;
+    border-radius: 80px;
+    box-shadow: 0px 0px 10px 10px orange;
+}
+.img2{
+    background-image: url(recipies.jpg);
+    margin-left: 170px;
+    margin-top: 20px;
+    height:250px;
+    width:350px;
+    border-radius: 80px;
+    box-shadow: 0px 0px 10px 10px orange;
+}
+.img1:hover{
+    box-shadow: 0px 0px 10px 10px greenyellow;
+}
+.img2:hover{
+    box-shadow: 0px 0px 10px 10px greenyellow;
+}
+#sub_links{
+    margin-top: 10px;
+    display:flex;
+}
+.anchor{
+    margin-left: 140px;
+    margin-top: 200px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    background-color:coral;
+}
+.anchor:hover{
+    background-color:cornflowerblue;
+    transform: scale(1.1);
+}
+#varieties{
+    height:30px;
+    width:100%;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: darkgreen;
+}
+#recipies{
+    height:250px;
+    width:100%;
+    background-color:cadetblue;
+}
+.rec_heading{
+    height:30px;
+    width:100%;
+    text-align: center;
+    font-size: larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:crimson;
+}
+#sub_rec{
+    margin-left: 50px;
+    margin-top: 5px;
+    display:flex;
+}
+.rec_img1{
+    background-image: url(leg_pieces.jpg);
+    margin-left: 130px;
+    margin-top: 20px;
+    height:150px;
+    width:250px;
+    border-radius: 80px;
+    box-shadow: 0px 0px 10px 10px greenyellow;
+}
+.rec_img2{
+    background-image: url(biryani.jpg);
+    margin-left: 130px;
+    margin-top: 20px;
+    height:150px;
+    width:250px;
+    border-radius: 80px;
+    box-shadow: 0px 0px 10px 10px greenyellow;
+}
+.rec_img3{
+    background-image: url(65.jpg);
+    margin-left: 130px;
+    margin-top: 20px;
+    height:150px;
+    width:250px;
+    border-radius: 80px;
+    box-shadow: 0px 0px 10px 10px greenyellow;
+}
+.rec_anchor{
+    margin-left: 80px;
+    margin-top: 115px;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    background-color:coral;
+}
+.rec_anchor:hover{
+    background-color:cornflowerblue;
+    transform: scale(1.1);
+}
+#form{
+    margin-left: 500px;
+    margin-top: 50px;
+    background-color: darkgoldenrod;
+    height:350px;
+    width:300px;
+    padding: 100px 70px;
+}
+#quiery{
+    height:150px;
+    width:300px;
+}
